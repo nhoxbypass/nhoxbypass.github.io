@@ -49,7 +49,7 @@ social_media:
 topics:
   - name: Android
     web_url: https://developer.android.com/about
-    image_url: https://developer.android.com/images/landing/android-logo.svg
+    image_url: https://dwglogo.com/wp-content/uploads/2019/09/android_logo.png
 
   - name: Machine Learning
     web_url: https://www.tensorflow.org/
@@ -57,4 +57,4 @@ topics:
 
   - name: Big Data
     web_url: https://hadoop.apache.org/
-    image_url: https://hadoop.apache.org/hadoop-logo.jpg
+    image_url: https://w0.pngwave.com/png/260/648/apache-hadoop-logo-big-data-data-analysis-hadoop-distributed-filesystem-hue-hadoop-png-clip-art-thumbnail.png
